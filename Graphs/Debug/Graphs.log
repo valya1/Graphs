@@ -1,0 +1,9 @@
+﻿  Graphs.cpp
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(125): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(126): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(151): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(220): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(303): warning C4018: <: несоответствие типов со знаком и без знака
+  Graphs.vcxproj -> d:\Documents\Visual Studio 2017\Projects\Graphs\Debug\Graphs.exe
