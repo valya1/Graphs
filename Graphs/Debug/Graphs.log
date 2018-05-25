@@ -4,11 +4,16 @@ d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(116): warning 
 d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(147): warning C4018: <: несоответствие типов со знаком и без знака
 d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(176): warning C4018: <: несоответствие типов со знаком и без знака
 d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(177): warning C4018: <: несоответствие типов со знаком и без знака
-d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(201): warning C4018: <: несоответствие типов со знаком и без знака
-d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(272): warning C4018: <: несоответствие типов со знаком и без знака
-d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(355): warning C4018: <: несоответствие типов со знаком и без знака
-d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(526): warning C4018: <: несоответствие типов со знаком и без знака
-d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(552): warning C4018: <: несоответствие типов со знаком и без знака
-d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(560): warning C4018: <: несоответствие типов со знаком и без знака
-d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(575): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(202): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(268): warning C4018: >: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(272): warning C4018: >: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(292): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(338): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(408): warning C4018: <=: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(424): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(596): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(622): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(630): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(645): warning C4018: <: несоответствие типов со знаком и без знака
+d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(730): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
   Graphs.vcxproj -> d:\Documents\Visual Studio 2017\Projects\Graphs\Debug\Graphs.exe
