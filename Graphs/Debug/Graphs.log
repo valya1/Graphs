@@ -17,4 +17,5 @@ d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(617): warning 
 d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(640): warning C4018: <: несоответствие типов со знаком и без знака
 d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(648): warning C4018: <: несоответствие типов со знаком и без знака
 d:\documents\visual studio 2017\projects\graphs\graphs\graphs.cpp(663): warning C4018: <: несоответствие типов со знаком и без знака
-  Graphs.vcxproj -> D:\Documents\Visual Studio 2017\Projects\Graphs\Debug\Graphs.exe
+  LINK : не найден или не выполнена сборка d:\Documents\Visual Studio 2017\Projects\Graphs\Debug\Graphs.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Graphs.vcxproj -> d:\Documents\Visual Studio 2017\Projects\Graphs\Debug\Graphs.exe
